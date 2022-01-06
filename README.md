@@ -1,6 +1,6 @@
 ## Feedback UI
 
-Feddback UI will render the reviews and show the total reviews and average rating on the top, and also user can delete the reviews.
+Feedback UI will render the reviews and show the total reviews and average rating on the top, and also user can delete the reviews.
 This App is created using html, css, and React(javascript framework).
 
 ## Topics Covered

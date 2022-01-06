@@ -14,9 +14,8 @@ This App is created using html, css, and React(javascript framework).
 
 ## Available Scripts
 
-In the project directory, you can run:
+1. First Install NPM by typing: `npm install` in your terminal.
 
-### `npm start`
+2. Now Run: `npm start` to start app in your local server.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

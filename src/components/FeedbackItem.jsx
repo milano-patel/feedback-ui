@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import Card from './shared/Card';
 import { FaTimes } from 'react-icons/fa';
 
@@ -13,5 +14,10 @@ function FeedbackItem({ item, handleDelete }) {
     </Card>
   );
 }
+
+FeedbackItem.propTypes = {
+  item: PropTypes.object.isRequired,
+  handleDelete: PropTypes.func.isRequired,
+};
 
 export default FeedbackItem;

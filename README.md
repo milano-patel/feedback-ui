@@ -7,6 +7,7 @@ This App is created using html, css, and React(javascript framework).
 
 - React Framework
 - React Components
+- React Router (Route amd Link Elements)
 - Props and Default Props
 - React Hooks: useState
 - JS Modules
